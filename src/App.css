@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.headerLogo {
+  height: 15vmin;
+  pointer-events: none;
+}
